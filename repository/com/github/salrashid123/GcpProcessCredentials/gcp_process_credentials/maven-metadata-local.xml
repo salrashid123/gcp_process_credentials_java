@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.salrashid123.GcpProcessCredentials</groupId>
+  <artifactId>gcp_process_credentials</artifactId>
+  <versioning>
+    <release>0.0.1</release>
+    <versions>
+      <version>0.0.1</version>
+    </versions>
+    <lastUpdated>20230821110426</lastUpdated>
+  </versioning>
+</metadata>
